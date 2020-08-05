@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://localhost:8080';
+export const API_BASE_URL = 'http://erbsw-env.eba-72e4hwyb.us-west-2.elasticbeanstalk.com';
 export const ACCESS_TOKEN = 'accessToken';
 
 export const OAUTH2_REDIRECT_URI = 'https://master.d18wgpc3oi5r8m.amplifyapp.com:3000/oauth2/redirect'
